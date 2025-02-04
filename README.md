@@ -1,5 +1,5 @@
 # 💫 About Me:
-A skilled and passionate software engineer among other competencies,<br>always willing to learn and acquire knowledge aimed at providing<br>better solutions today and in the future. A good team player,<br>teachable, flexible with effective communication and people skills.<br><br>
+A skilled and passionate software engineer among other competencies, always willing to learn and acquire knowledge aimed at providing better solutions today and in the future. A good team player,<br>teachable, flexible with effective communication and people skills.<br><br>
 
 
 ## 🌐 Socials:
